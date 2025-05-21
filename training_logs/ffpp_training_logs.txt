@@ -1,0 +1,122 @@
+ 1/56 ━━━━━━━━━━━━━━━━━━━━ 3:51 4s/step - accuracy: 0.3200 - loss: 0.81362024-11-16 23:25:08.681549: W external/local_xla/xla/tsl/framework/cpu_allocator_impl.cc:83] Allocation of 234291200 exceeds 10% of free system memory.
+2024-11-16 23:25:08.786029: W external/local_xla/xla/tsl/framework/cpu_allocator_impl.cc:83] Allocation of 234291200 exceeds 10% of free system memory.
+ 2/56 ━━━━━━━━━━━━━━━━━━━━ 2:14 2s/step - accuracy: 0.4200 - loss: 0.76882024-11-16 23:25:11.177353: W external/local_xla/xla/tsl/framework/cpu_allocator_impl.cc:83] Allocation of 234291200 exceeds 10% of free system memory.
+56/56 ━━━━━━━━━━━━━━━━━━━━ 0s 3s/step - accuracy: 0.4842 - loss: 0.7476  
+Epoch 1: val_loss improved from inf to 0.68832, saving model to ./smr_ffpp_DLIB_CNN_SGD.keras
+56/56 ━━━━━━━━━━━━━━━━━━━━ 184s 3s/step - accuracy: 0.4842 - loss: 0.7474 - val_accuracy: 0.4870 - val_loss: 0.6883
+Epoch 2/30
+56/56 ━━━━━━━━━━━━━━━━━━━━ 0s 3s/step - accuracy: 0.5168 - loss: 0.7047  
+Epoch 2: val_loss improved from 0.68832 to 0.68251, saving model to ./smr_ffpp_DLIB_CNN_SGD.keras
+56/56 ━━━━━━━━━━━━━━━━━━━━ 189s 3s/step - accuracy: 0.5167 - loss: 0.7047 - val_accuracy: 0.5130 - val_loss: 0.6825
+Epoch 3/30
+56/56 ━━━━━━━━━━━━━━━━━━━━ 0s 3s/step - accuracy: 0.4930 - loss: 0.7086  
+Epoch 3: val_loss improved from 0.68251 to 0.67836, saving model to ./smr_ffpp_DLIB_CNN_SGD.keras
+56/56 ━━━━━━━━━━━━━━━━━━━━ 188s 3s/step - accuracy: 0.4931 - loss: 0.7086 - val_accuracy: 0.5130 - val_loss: 0.6784
+Epoch 4/30
+56/56 ━━━━━━━━━━━━━━━━━━━━ 0s 3s/step - accuracy: 0.4829 - loss: 0.7015  
+Epoch 4: val_loss did not improve from 0.67836
+56/56 ━━━━━━━━━━━━━━━━━━━━ 187s 3s/step - accuracy: 0.4834 - loss: 0.7015 - val_accuracy: 0.5130 - val_loss: 0.6809
+Epoch 5/30
+56/56 ━━━━━━━━━━━━━━━━━━━━ 0s 3s/step - accuracy: 0.4667 - loss: 0.7102  
+Epoch 5: val_loss improved from 0.67836 to 0.67773, saving model to ./smr_ffpp_DLIB_CNN_SGD.keras
+56/56 ━━━━━━━━━━━━━━━━━━━━ 190s 3s/step - accuracy: 0.4670 - loss: 0.7101 - val_accuracy: 0.5130 - val_loss: 0.6777
+Epoch 6/30
+56/56 ━━━━━━━━━━━━━━━━━━━━ 0s 3s/step - accuracy: 0.5190 - loss: 0.6950  
+Epoch 6: val_loss improved from 0.67773 to 0.67356, saving model to ./smr_ffpp_DLIB_CNN_SGD.keras
+56/56 ━━━━━━━━━━━━━━━━━━━━ 189s 3s/step - accuracy: 0.5189 - loss: 0.6950 - val_accuracy: 0.5826 - val_loss: 0.6736
+Epoch 7/30
+56/56 ━━━━━━━━━━━━━━━━━━━━ 0s 3s/step - accuracy: 0.5371 - loss: 0.6874  
+Epoch 7: val_loss improved from 0.67356 to 0.66953, saving model to ./smr_ffpp_DLIB_CNN_SGD.keras
+56/56 ━━━━━━━━━━━━━━━━━━━━ 189s 3s/step - accuracy: 0.5369 - loss: 0.6875 - val_accuracy: 0.5826 - val_loss: 0.6695
+Epoch 8/30
+56/56 ━━━━━━━━━━━━━━━━━━━━ 0s 3s/step - accuracy: 0.5413 - loss: 0.6898  
+Epoch 8: val_loss improved from 0.66953 to 0.66593, saving model to ./smr_ffpp_DLIB_CNN_SGD.keras
+56/56 ━━━━━━━━━━━━━━━━━━━━ 189s 3s/step - accuracy: 0.5414 - loss: 0.6897 - val_accuracy: 0.5739 - val_loss: 0.6659
+Epoch 9/30
+56/56 ━━━━━━━━━━━━━━━━━━━━ 0s 3s/step - accuracy: 0.5378 - loss: 0.6880  
+Epoch 9: val_loss improved from 0.66593 to 0.66176, saving model to ./smr_ffpp_DLIB_CNN_SGD.keras
+56/56 ━━━━━━━━━━━━━━━━━━━━ 189s 3s/step - accuracy: 0.5378 - loss: 0.6880 - val_accuracy: 0.5826 - val_loss: 0.6618
+Epoch 10/30
+56/56 ━━━━━━━━━━━━━━━━━━━━ 0s 3s/step - accuracy: 0.5441 - loss: 0.6827  
+Epoch 10: val_loss improved from 0.66176 to 0.65740, saving model to ./smr_ffpp_DLIB_CNN_SGD.keras
+56/56 ━━━━━━━━━━━━━━━━━━━━ 189s 3s/step - accuracy: 0.5444 - loss: 0.6826 - val_accuracy: 0.6870 - val_loss: 0.6574
+Epoch 11/30
+56/56 ━━━━━━━━━━━━━━━━━━━━ 0s 3s/step - accuracy: 0.5807 - loss: 0.6781  
+Epoch 11: val_loss improved from 0.65740 to 0.65366, saving model to ./smr_ffpp_DLIB_CNN_SGD.keras
+56/56 ━━━━━━━━━━━━━━━━━━━━ 189s 3s/step - accuracy: 0.5804 - loss: 0.6781 - val_accuracy: 0.6957 - val_loss: 0.6537
+Epoch 12/30
+56/56 ━━━━━━━━━━━━━━━━━━━━ 0s 3s/step - accuracy: 0.5721 - loss: 0.6784  
+Epoch 12: val_loss improved from 0.65366 to 0.64689, saving model to ./smr_ffpp_DLIB_CNN_SGD.keras
+56/56 ━━━━━━━━━━━━━━━━━━━━ 189s 3s/step - accuracy: 0.5722 - loss: 0.6783 - val_accuracy: 0.6783 - val_loss: 0.6469
+Epoch 13/30
+56/56 ━━━━━━━━━━━━━━━━━━━━ 0s 3s/step - accuracy: 0.5904 - loss: 0.6711  
+Epoch 13: val_loss improved from 0.64689 to 0.63823, saving model to ./smr_ffpp_DLIB_CNN_SGD.keras
+56/56 ━━━━━━━━━━━━━━━━━━━━ 189s 3s/step - accuracy: 0.5902 - loss: 0.6712 - val_accuracy: 0.6957 - val_loss: 0.6382
+Epoch 14/30
+56/56 ━━━━━━━━━━━━━━━━━━━━ 0s 3s/step - accuracy: 0.5635 - loss: 0.6721  
+Epoch 14: val_loss improved from 0.63823 to 0.63242, saving model to ./smr_ffpp_DLIB_CNN_SGD.keras
+56/56 ━━━━━━━━━━━━━━━━━━━━ 190s 3s/step - accuracy: 0.5635 - loss: 0.6721 - val_accuracy: 0.6957 - val_loss: 0.6324
+Epoch 15/30
+56/56 ━━━━━━━━━━━━━━━━━━━━ 0s 3s/step - accuracy: 0.5915 - loss: 0.6665  
+Epoch 15: val_loss improved from 0.63242 to 0.62169, saving model to ./smr_ffpp_DLIB_CNN_SGD.keras
+56/56 ━━━━━━━━━━━━━━━━━━━━ 190s 3s/step - accuracy: 0.5917 - loss: 0.6663 - val_accuracy: 0.7130 - val_loss: 0.6217
+Epoch 16/30
+56/56 ━━━━━━━━━━━━━━━━━━━━ 0s 3s/step - accuracy: 0.6052 - loss: 0.6615  
+Epoch 16: val_loss improved from 0.62169 to 0.60992, saving model to ./smr_ffpp_DLIB_CNN_SGD.keras
+56/56 ━━━━━━━━━━━━━━━━━━━━ 190s 3s/step - accuracy: 0.6054 - loss: 0.6614 - val_accuracy: 0.7130 - val_loss: 0.6099
+Epoch 17/30
+56/56 ━━━━━━━━━━━━━━━━━━━━ 0s 3s/step - accuracy: 0.5899 - loss: 0.6615  
+Epoch 17: val_loss improved from 0.60992 to 0.60355, saving model to ./smr_ffpp_DLIB_CNN_SGD.keras
+56/56 ━━━━━━━━━━━━━━━━━━━━ 189s 3s/step - accuracy: 0.5899 - loss: 0.6615 - val_accuracy: 0.7217 - val_loss: 0.6035
+Epoch 18/30
+56/56 ━━━━━━━━━━━━━━━━━━━━ 0s 3s/step - accuracy: 0.6116 - loss: 0.6451  
+Epoch 18: val_loss improved from 0.60355 to 0.59254, saving model to ./smr_ffpp_DLIB_CNN_SGD.keras
+56/56 ━━━━━━━━━━━━━━━━━━━━ 190s 3s/step - accuracy: 0.6119 - loss: 0.6450 - val_accuracy: 0.7043 - val_loss: 0.5925
+Epoch 19/30
+56/56 ━━━━━━━━━━━━━━━━━━━━ 0s 3s/step - accuracy: 0.6324 - loss: 0.6388  
+Epoch 19: val_loss improved from 0.59254 to 0.58320, saving model to ./smr_ffpp_DLIB_CNN_SGD.keras
+56/56 ━━━━━━━━━━━━━━━━━━━━ 190s 3s/step - accuracy: 0.6326 - loss: 0.6388 - val_accuracy: 0.6870 - val_loss: 0.5832
+Epoch 20/30
+56/56 ━━━━━━━━━━━━━━━━━━━━ 0s 3s/step - accuracy: 0.6288 - loss: 0.6322  
+Epoch 20: val_loss improved from 0.58320 to 0.56136, saving model to ./smr_ffpp_DLIB_CNN_SGD.keras
+56/56 ━━━━━━━━━━━━━━━━━━━━ 189s 3s/step - accuracy: 0.6290 - loss: 0.6321 - val_accuracy: 0.6870 - val_loss: 0.5614
+Epoch 21/30
+56/56 ━━━━━━━━━━━━━━━━━━━━ 0s 3s/step - accuracy: 0.6632 - loss: 0.6142  
+Epoch 21: val_loss improved from 0.56136 to 0.55713, saving model to ./smr_ffpp_DLIB_CNN_SGD.keras
+56/56 ━━━━━━━━━━━━━━━━━━━━ 189s 3s/step - accuracy: 0.6631 - loss: 0.6142 - val_accuracy: 0.6870 - val_loss: 0.5571
+Epoch 22/30
+56/56 ━━━━━━━━━━━━━━━━━━━━ 0s 3s/step - accuracy: 0.6823 - loss: 0.5997  
+Epoch 22: val_loss improved from 0.55713 to 0.52330, saving model to ./smr_ffpp_DLIB_CNN_SGD.keras
+56/56 ━━━━━━━━━━━━━━━━━━━━ 189s 3s/step - accuracy: 0.6824 - loss: 0.5997 - val_accuracy: 0.7565 - val_loss: 0.5233
+Epoch 23/30
+56/56 ━━━━━━━━━━━━━━━━━━━━ 0s 3s/step - accuracy: 0.7031 - loss: 0.5748  
+Epoch 23: val_loss improved from 0.52330 to 0.49791, saving model to ./smr_ffpp_DLIB_CNN_SGD.keras
+56/56 ━━━━━━━━━━━━━━━━━━━━ 190s 3s/step - accuracy: 0.7031 - loss: 0.5746 - val_accuracy: 0.8087 - val_loss: 0.4979
+Epoch 24/30
+56/56 ━━━━━━━━━━━━━━━━━━━━ 0s 3s/step - accuracy: 0.7441 - loss: 0.5260  
+Epoch 24: val_loss improved from 0.49791 to 0.45068, saving model to ./smr_ffpp_DLIB_CNN_SGD.keras
+56/56 ━━━━━━━━━━━━━━━━━━━━ 190s 3s/step - accuracy: 0.7441 - loss: 0.5261 - val_accuracy: 0.8261 - val_loss: 0.4507
+Epoch 25/30
+56/56 ━━━━━━━━━━━━━━━━━━━━ 0s 3s/step - accuracy: 0.7448 - loss: 0.5277  
+Epoch 25: val_loss improved from 0.45068 to 0.42465, saving model to ./smr_ffpp_DLIB_CNN_SGD.keras
+56/56 ━━━━━━━━━━━━━━━━━━━━ 191s 3s/step - accuracy: 0.7448 - loss: 0.5277 - val_accuracy: 0.8696 - val_loss: 0.4246
+Epoch 26/30
+56/56 ━━━━━━━━━━━━━━━━━━━━ 0s 3s/step - accuracy: 0.7596 - loss: 0.4921  
+Epoch 26: val_loss improved from 0.42465 to 0.40674, saving model to ./smr_ffpp_DLIB_CNN_SGD.keras
+56/56 ━━━━━━━━━━━━━━━━━━━━ 190s 3s/step - accuracy: 0.7599 - loss: 0.4921 - val_accuracy: 0.8348 - val_loss: 0.4067
+Epoch 27/30
+56/56 ━━━━━━━━━━━━━━━━━━━━ 0s 3s/step - accuracy: 0.8057 - loss: 0.4447  
+Epoch 27: val_loss improved from 0.40674 to 0.35542, saving model to ./smr_ffpp_DLIB_CNN_SGD.keras
+56/56 ━━━━━━━━━━━━━━━━━━━━ 190s 3s/step - accuracy: 0.8058 - loss: 0.4445 - val_accuracy: 0.8783 - val_loss: 0.3554
+Epoch 28/30
+56/56 ━━━━━━━━━━━━━━━━━━━━ 0s 3s/step - accuracy: 0.8367 - loss: 0.4064  
+Epoch 28: val_loss improved from 0.35542 to 0.27575, saving model to ./smr_ffpp_DLIB_CNN_SGD.keras
+56/56 ━━━━━━━━━━━━━━━━━━━━ 190s 3s/step - accuracy: 0.8365 - loss: 0.4065 - val_accuracy: 0.9304 - val_loss: 0.2757
+Epoch 29/30
+56/56 ━━━━━━━━━━━━━━━━━━━━ 0s 3s/step - accuracy: 0.8608 - loss: 0.3569  
+Epoch 29: val_loss improved from 0.27575 to 0.25763, saving model to ./smr_ffpp_DLIB_CNN_SGD.keras
+56/56 ━━━━━━━━━━━━━━━━━━━━ 190s 3s/step - accuracy: 0.8607 - loss: 0.3570 - val_accuracy: 0.8957 - val_loss: 0.2576
+Epoch 30/30
+56/56 ━━━━━━━━━━━━━━━━━━━━ 0s 3s/step - accuracy: 0.8607 - loss: 0.3452  
+Epoch 30: val_loss did not improve from 0.25763
+56/56 ━━━━━━━━━━━━━━━━━━━━ 189s 3s/step - accuracy: 0.8607 - loss: 0.3454 - val_accuracy: 0.8174 - val_loss: 0.4299

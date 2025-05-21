@@ -1,0 +1,6 @@
+Run the following command to execute the models performance on celeb df dataset
+  python smr_main.py -celeb_df -lm -test
+
+Run the following command to execute the models performance on face forensic++ dataset
+  python smr_main.py -ffpp -lm -test
+
